@@ -15,3 +15,9 @@ def link
   puts line
   "It's Dangerous To Go Alone! Take This."
 end
+
+def any_phrase(peppy)
+  peppy = "Do A Barrel Roll!\n"
+  puts peppy
+  "Do A Barrel Roll!\n"
+end
